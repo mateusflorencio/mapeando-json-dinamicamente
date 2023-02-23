@@ -1,0 +1,38 @@
+<---------------resultado--------------------->
+ {
+  '0': {
+    romaneio: '123',
+    parentes: 'dados',
+    testeParente: '3',
+    pedidoId: 1,
+    produtoId: 11,
+    descritivo: 'produto 11',
+    qtd: 1
+  },
+  '1': {
+    romaneio: '123',
+    parentes: 'dados',
+    testeParente: '3',
+    pedidoId: 1,
+    produtoId: 12,
+    descritivo: 'produto 12',
+    qtd: 2
+  },
+  '2': {
+    romaneio: '123',
+    parentes: 'dados',
+    testeParente: '3',
+    pedidoId: 2,
+    produtoId: 21,
+    descritivo: 'produto 21',
+    qtd: 3
+  },
+  '3': {
+    romaneio: '123',
+    parentes: 'dados',
+    testeParente: '3',
+    pedidoId: 2,
+    produtoId: 22,
+    descritivo: 'produto 22',
+    qtd: 4
+  }
